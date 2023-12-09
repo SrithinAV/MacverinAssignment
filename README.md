@@ -21,5 +21,5 @@ Make sure your development environment is properly configured with the following
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/SrithinAV/MacverinAssignment/tree/e7a7bd20e9eefd2818b48616f4bd812765b282c5/screenshots/screenshot1.png)
+![Screenshot 2](https://github.com/SrithinAV/MacverinAssignment/tree/e7a7bd20e9eefd2818b48616f4bd812765b282c5/screenshots/screenshot2.png)
