@@ -15,11 +15,13 @@ Make sure your development environment is properly configured with the following
 
 - **Dependencies:** Check the `pubspec.yaml` file for a list of dependencies used in this project. You can install them by running:
 
-  ```bash
-  flutter pub get
-  flutter run
-
 ## Screenshots
 
 ![Screenshot 1](https://github.com/SrithinAV/MacverinAssignment/tree/e7a7bd20e9eefd2818b48616f4bd812765b282c5/screenshots/screenshot1.png)
 ![Screenshot 2](https://github.com/SrithinAV/MacverinAssignment/tree/e7a7bd20e9eefd2818b48616f4bd812765b282c5/screenshots/screenshot2.png)
+
+  ```bash
+  flutter pub get
+  flutter run
+
+
