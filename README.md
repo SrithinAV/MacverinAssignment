@@ -1,16 +1,20 @@
-# macverin_assignment
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Flutter project is built with the intention of providing an amazing experience on the iPhone 15 Pro Max.
 
-This project is a starting point for a Flutter application.
+## Flutter Configuration
 
-A few resources to get you started if this is your first Flutter project:
+Make sure your development environment is properly configured with the following Flutter settings:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter SDK:** Make sure you have Flutter installed. You can download it from [here](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **IDE:** Android Studio
+
+- **Device Compatibility:** This project is optimized for iPhone 15 Pro Max. Ensure that your Flutter app is set up for iOS development. You can check the Flutter documentation for iOS setup [here](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices).
+
+- **Dependencies:** Check the `pubspec.yaml` file for a list of dependencies used in this project. You can install them by running:
+
+  ```bash
+  flutter pub get
+  flutter run
