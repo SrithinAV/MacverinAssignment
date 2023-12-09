@@ -18,3 +18,10 @@ Make sure your development environment is properly configured with the following
   ```bash
   flutter pub get
   flutter run
+...
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+...
